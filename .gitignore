@@ -1,0 +1,34 @@
+.vs/
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Project-specific bin and obj folders
+Application/obj/
+Application/bin/
+Common/obj/
+Common/bin/
+Domain/obj/
+Domain/bin/
+Infrastructure/obj
+Infrastructure/bin
+PhillipsAPI_Lead/bin
+PhillipsAPI_Lead/obj
+Service/bin
+Service/obj
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+
